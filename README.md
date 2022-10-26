@@ -2,6 +2,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-003B57?style=flat-square&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-003B57?style=flat-square&logo=Firebase&logoColor=white"/>
 </div>
 
 <div>
